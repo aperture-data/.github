@@ -13,5 +13,5 @@ Our most useful public repositories are:
 * [Docker community edition](https://hub.docker.com/r/aperturedata/aperturedb-standalone)
 
 Community:
-Join our [sub-reddit](https://www.reddit.com/r/multimodaldata/)
-Connect with us on [Slack](https://join.slack.com/t/aperturedb/shared_invite/zt-2ffp3chqv-QkGQdvDQQxv8NSjMBoy5RA)
+* Join our [sub-reddit](https://www.reddit.com/r/multimodaldata/)
+* Connect with us on [Slack](https://join.slack.com/t/aperturedb/shared_invite/zt-2ffp3chqv-QkGQdvDQQxv8NSjMBoy5RA)
