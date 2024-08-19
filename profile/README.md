@@ -18,4 +18,4 @@ we have curated a dataset comprised of food images, cooking videos, and relevant
 ** This repository provides the dataset and notebooks that can take you on a culinary journey
 from a beginner to an expert ApertureDB user**.
 
-@copy ApertureData Inc.
+@copy; ApertureData Inc.
